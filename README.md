@@ -1,3 +1,5 @@
+![Github Banner](https://raw.githubusercontent.com/ibntofajjal/ibntofajjal/main/cover.png)
+
 <h1 align="center">Hi 👋, I'm Joynal Bin Tofajjal</h1>
 <h3 align="center">A passionate FullStack Developer from South Asia.💭</h3>
 
