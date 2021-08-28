@@ -9,13 +9,11 @@
 
 - 🔭 I’m currently working on [Bin Tofajjal](http://bintofajjal.info/)
 
-- 👨‍💻 All of my projects are available at [http://joynal.bintofajjal.info/](http://joynal.bintofajjal.info/)
-
 - 💬 Ask me **Anything 😋**
 
 - 📫 How to reach me **joynal@bintofajjal.info**
 
-- 📄 Know about my experiences [http://joynal.bintofajjal.info/](http://joynal.bintofajjal.info/)
+- 🌐 My Website [http://joynal.bintofajjal.info/](http://joynal.bintofajjal.info/)
 
 - ⚡ Fun fact **I think I'm funny <🐸/>**
 
@@ -38,6 +36,8 @@
 
 
 ![Metrics](https://metrics.lecoq.io/ibntofajjal?template=classic&people=1&languages=1&tweets=1&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&tweets.attachments=false&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Asia%2FDhaka)
+
+<hr>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibntofajjal)](https://github.com/anuraghazra/github-readme-stats)
 
