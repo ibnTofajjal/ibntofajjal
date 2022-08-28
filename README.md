@@ -38,8 +38,8 @@
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joynal-git)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joynal-git&show_icons=true&count_private=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=joynal-git)
