@@ -1,10 +1,23 @@
 ![Github Banner](https://raw.githubusercontent.com/ibntofajjal/ibntofajjal/main/cover.png)
 
-<h1 align="center">Hi 👋, I'm Joynal Bin Tofajjal </h1>
+<h1 align="center">Hi 👋, I'm Joynal</h1>
 <h3 align="center">A passionate FullStack Developer from South Asia.💭</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ibntofajjal&label=Profile%20views&color=0e75b6&style=flat" alt="ibntofajjal" /></p>
+<h3 align="center">
+<a href="https://github.com/ibntofajjal" target="_blank">
+<img src="https://komarev.com/ghpvc/?username=ibntofajjal&label=Profile%20views&color=0e75b6&style=flat" alt="ibntofajjal" />
+</a>
+</h3>
 
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibntofajjal&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibntofajjal&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibntofajjal&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibntofajjal&theme=dracula) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ibntofajjal&theme=dracula) 
+
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -20,17 +33,19 @@
 <a href="https://discord.gg/Joynal#2065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Joynal#2065" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
   
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,express,mongodb,git,firebase,github,heroku,docker,netlify,ps,xd,ai,figma" />
+<a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,express,mongodb,git,firebase,github,heroku,docker,netlify,stackoverflow,ps,xd,ai,figma&perline=9" />
 </a>
 
 </p>
 
 <hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibntofajjal)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ibntofajjal&show_icons=true&count_private=true)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ibntofajjal)
+
+
+
+
