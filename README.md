@@ -9,6 +9,13 @@
 </a>
 </h3>
 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  
+<a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,express,mongodb,git,firebase,github,heroku,docker,netlify,stackoverflow,ps,xd,ai,figma&perline=9" />
+</a>
+
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibntofajjal&theme=dracula) 
@@ -33,12 +40,7 @@
 <a href="https://discord.gg/Joynal#2065" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Joynal#2065" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  
-<a>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,express,mongodb,git,firebase,github,heroku,docker,netlify,stackoverflow,ps,xd,ai,figma&perline=9" />
-</a>
+
 
 </p>
 
