@@ -9,6 +9,12 @@
 </a>
 </h3>
 
+<div align="center">
+  <a href="https://joynal.bintofajjal.info/">
+  <img src="https://github.com/bimashazaman/Github-snake-SVG/blob/master/snake.svg"
+       alt="snake" /></a>
+</div>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   
