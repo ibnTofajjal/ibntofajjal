@@ -36,10 +36,8 @@
 </div>
 -->
 
-
+<h3 align="center">Follow on Social</h3>
 <p align="center">
-
-  <h3 align="center">Follow:</h3>
 <a href="https://twitter.com/ibntofajjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ibntofajjal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ibntofajjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibntofajjal" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14564168/joynal-bin-tofajjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14564168/joynal-bin-tofajjal" height="30" width="40" /></a>
@@ -51,8 +49,6 @@
 <a href="https://www.youtube.com/c/ucbbp0w8_efrzqr_tf6upfxg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucbbp0w8_efrzqr_tf6upfxg" height="30" width="40" /></a>
 <a href="https://discord.gg/ibntofajjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ibntofajjal" height="30" width="40" /></a>
 </p>
-
-
 
 </p>
 
