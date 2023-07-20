@@ -44,7 +44,7 @@
 <a href="https://www.behance.net/ibntofajjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ibntofajjal" height="30" width="40" /></a>
 <a href="https://medium.com/joynal.bintofajjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="joynal.bintofajjal" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucbbp0w8_efrzqr_tf6upfxg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucbbp0w8_efrzqr_tf6upfxg" height="30" width="40" /></a>
-<a href="https://discord.gg/ibnTofajjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ibnTofajjal" height="30" width="40" /></a>
+<a href="https://discord.gg/ibntofajjal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ibntofajjal" height="30" width="40" /></a>
 </p>
 
 
