@@ -24,7 +24,6 @@
   
   <hr>
 
-<!---
 <div align="center">
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibntofajjal&theme=dracula) 
@@ -34,7 +33,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ibntofajjal&theme=dracula) 
 
 </div>
--->
+
 
 <h3 align="center">Follow on Social</h3>
 <p align="center">
