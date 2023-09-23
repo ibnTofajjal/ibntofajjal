@@ -25,12 +25,16 @@
   <hr>
 
 <div align="center">
-
+<!--
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ibntofajjal&theme=dracula) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ibntofajjal&theme=dracula) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibntofajjal&theme=dracula)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibntofajjal&theme=dracula) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ibntofajjal&theme=dracula) 
+ --!>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnTofajjal&layout=pie)](https://github.com/ibnTofajjal/github-readme-stats)
+
 
 </div>
 
