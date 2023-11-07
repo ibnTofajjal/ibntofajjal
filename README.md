@@ -1,7 +1,7 @@
 ![Github Banner](https://raw.githubusercontent.com/ibntofajjal/ibntofajjal/main/cover.png)
 
-<h1 align="center">Hi 👋, I'm Joynal</h1>
-<h3 align="center">A passionate FullStack Developer from South Asia.💭</h3>
+<!-- <h1 align="center">Hi 👋, I'm Joynal</h1> -->
+<!-- <h3 align="center">A passionate FullStack Developer from South Asia.💭</h3> -->
 
 <h3 align="center">
 <a href="https://github.com/ibntofajjal" target="_blank">
@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,nestjs,express,mongodb,git,firebase,github,heroku,docker,netlify,stackoverflow,ps,xd,ai,figma&perline=9" />
 </a>
   
-  <hr>
+
 
 <div align="center">
 <!--
@@ -33,8 +33,9 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibntofajjal&theme=dracula) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ibntofajjal&theme=dracula) 
  --!>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnTofajjal&layout=pie)](https://github.com/ibnTofajjal/github-readme-stats)
+
+  <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnTofajjal&layout=pie)](https://github.com/ibnTofajjal/github-readme-stats) -->
+
 
 
 </div>
