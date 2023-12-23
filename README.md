@@ -59,7 +59,10 @@
 
 
 
-
+<p align='center'>
+    <img src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibnTofajjal&theme=solarized'/>
+    <img src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibnTofajjal&theme=solarized'/>
+</p>
 
 
 
