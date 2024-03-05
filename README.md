@@ -20,7 +20,7 @@
 <p align="center">
   
 <a>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,express,mongodb&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,express,mongodb&perline=6" />
 </a>
   
 
@@ -57,13 +57,6 @@
 
 </p>
 -->
-
-
-<p align='center'>
-<!--     <img src='http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ibnTofajjal&theme=solarized'/> -->
-    <img src='http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ibnTofajjal&theme=solarized'/>
-</p>
-
 
 
 
