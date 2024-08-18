@@ -20,7 +20,7 @@
 <p align="center">
   
 <a>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,next,express,mongodb&perline=6" />
+  <img src="https://skillicons.dev/icons?i=ts,python,go,react,next,vue,express,django&perline=8" />
 </a>
   
 
