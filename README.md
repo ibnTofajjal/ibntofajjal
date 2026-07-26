@@ -2,22 +2,22 @@
 
 <img src="resources/cover.svg" alt="Cover" width="100%">
 
-<p align="center">
-  <a href="https://github.com/ibntofajjal/buyerfinder" style="display: inline-block; width: 49%;">
-    <img src="resources/buyerfinder.svg" alt="BuyerFinder" style="width: 100%; height: auto;">
-  </a>
-  <a href="https://github.com/ibntofajjal/pagifye" style="display: inline-block; width: 49%;">
-    <img src="resources/pagifye.svg" alt="Pagifye" style="width: 100%; height: auto;">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ibntofajjal/siftr" style="display: inline-block; width: 49%;">
-    <img src="resources/siftr.svg" alt="Siftr" style="width: 100%; height: auto;">
-  </a>
-  <a href="https://github.com/ibntofajjal/timetrack" style="display: inline-block; width: 49%;">
-    <img src="resources/timetrack.svg" alt="TimeTrack" style="width: 100%; height: auto;">
-  </a>
-</p>
-
 </div>
+
+<p align="center">
+  <a href="https://buyerfinder.io/">
+    <img src="resources/buyerfinder.svg" alt="BuyerFinder" width="49%">
+  </a>
+  <a href="https://pagifye.com/">
+    <img src="resources/pagifye.svg" alt="Pagifye" width="49%">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://app.siftr.net/">
+    <img src="resources/siftr.svg" alt="Siftr" width="49%">
+  </a>
+  <a href="https://chromewebstore.google.com/detail/kgchkdmgobmgkmjldnifldgjjcaoeiaj?utm_source=item-share-cb">
+    <img src="resources/timetrack.svg" alt="TimeTrack" width="49%">
+  </a>
+</p>
