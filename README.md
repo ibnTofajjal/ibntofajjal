@@ -51,7 +51,6 @@
   </a>
 </p>
 
-&nbsp;
 
 <p align="center">
   <a href="https://buyerfinder.io/" target="_blank" style="text-decoration: none;">
