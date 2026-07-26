@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="resources/cover.svg" alt="Cover" width="100%">
+    <img src="resources/cover.svg" alt="Cover" width="100%" style="pointer-events: none; cursor: default;">
 </div>
 
 &nbsp;
@@ -17,7 +17,7 @@
 &nbsp;
 
 <div align="center">
-    <img src="resources/skill-bar.svg" alt="skill-bar" width="100%">
+    <img src="resources/skill-bar.svg" alt="skill-bar" width="100%" style="pointer-events: none; cursor: default;">
 </div>
 
 &nbsp;
@@ -37,7 +37,7 @@
 &nbsp;
 
 <div align="center">
-    <img src="resources/project-bar.svg" alt="project-bar" width="100%">
+    <img src="resources/project-bar.svg" alt="project-bar" width="100%" style="pointer-events: none; cursor: default;">
 </div>
 
 &nbsp;
@@ -66,7 +66,7 @@
 &nbsp;
 
 <div align="center">
-    <img src="resources/opensource-bar.svg" alt="project-bar" width="100%">
+    <img src="resources/opensource-bar.svg" alt="opensource-bar" width="100%" style="pointer-events: none; cursor: default;">
 </div>
 
 &nbsp;
