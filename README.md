@@ -2,22 +2,19 @@
     <img src="resources/cover.svg" alt="Cover" width="100%">
 </div>
 
-&nbsp;
 <p align="center">
-  <a href="https://www.linkedin.com/in/ibntofajjal" style="text-decoration: none;"><img src="resources/linkedin.svg" alt="linkedin"></a>
-  <a href="https://x.com/ibntofajjal" style="text-decoration: none;"><img src="resources/x.svg" alt="x"></a>
-  <a href="mailto:joynal.tsx@gmail.com" style="text-decoration: none;"><img src="resources/email.svg" alt="email"></a>
+  <a href="https://www.linkedin.com/in/ibntofajjal" style="text-decoration: none;"><img src="resources/linkedin.svg" alt="linkedin"></a>&nbsp;
+  <a href="https://x.com/ibntofajjal" style="text-decoration: none;"><img src="resources/x.svg" alt="x"></a>&nbsp;
+  <a href="mailto:joynal.tsx@gmail.com" style="text-decoration: none;"><img src="resources/email.svg" alt="email"></a>&nbsp;
   <a href="https://www.buymeacoffee.com/ibntofajjal" style="text-decoration: none;"><img src="resources/coffee.svg" alt="buy me a coffee"></a>
 </p>
 
-&nbsp;
 &nbsp;
 
 <div align="center">
     <img src="resources/project-bar.svg" alt="project-bar" width="100%">
 </div>
 
-&nbsp;
 &nbsp;
 
 <p align="center">
