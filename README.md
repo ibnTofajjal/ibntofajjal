@@ -2,6 +2,8 @@
     <img src="resources/cover.svg" alt="Cover" width="100%">
 </div>
 
+&nbsp;
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ibntofajjal" target="_blank" style="text-decoration: none;"><img src="resources/linkedin.svg" alt="linkedin"></a>
   &nbsp;
@@ -13,9 +15,11 @@
 </p>
 
 &nbsp;
+
 <div align="center">
     <img src="resources/skill-bar.svg" alt="skill-bar" width="100%">
 </div>
+
 &nbsp;
 
 ```json
@@ -29,6 +33,7 @@
 }
 ```
 
+&nbsp;
 &nbsp;
 
 <div align="center">
@@ -46,6 +51,8 @@
   </a>
 </p>
 
+&nbsp;
+
 <p align="center">
   <a href="https://buyerfinder.io/" target="_blank" style="text-decoration: none;">
     <img src="resources/buyerfinder.svg" alt="BuyerFinder" width="47%">
@@ -56,11 +63,13 @@
 </p>
 
 &nbsp;
+&nbsp;
 
 <div align="center">
     <img src="resources/opensource-bar.svg" alt="project-bar" width="100%">
 </div>
 
+&nbsp;
 &nbsp;
 
 <p align="center">
