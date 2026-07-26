@@ -1,8 +1,16 @@
 <div align="center">
-
-<img src="resources/cover.svg" alt="Cover" width="100%">
-
+    <img src="resources/cover.svg" alt="Cover" width="100%">
 </div>
+
+&nbsp;
+&nbsp;
+
+<div align="center">
+    <img src="resources/skill-bar.svg" alt="skill-bar" width="100%">
+</div>
+
+&nbsp;
+&nbsp;
 
 <p align="center">
   <a href="https://pagifye.com/">
